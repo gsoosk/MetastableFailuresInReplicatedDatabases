@@ -1,0 +1,4 @@
+[submodule "prototype"]
+	path = prototype
+	url = https://github.com/gsoosk/PostgresPaxos
+	branch = MetastableFailureInReplicatedDBPaperCheckpoint
